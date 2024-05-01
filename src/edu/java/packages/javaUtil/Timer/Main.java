@@ -35,7 +35,7 @@ public class Main {
         //timer.schedule(task, date.getTime()); //Disparando no momento do agendamento
         //timer.schedule(task, 0); // executa a tarefa imediatamente
         timer.scheduleAtFixedRate(task, /*quando inicia */date.getTime(), /*frequencia */ 1000); //agenda tarefa com data e frequencia
-
+        //aprender como gerar tarefa pra executar 1 vez por mês
 
 
     }
