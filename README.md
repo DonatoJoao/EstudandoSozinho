@@ -16,8 +16,14 @@ Eu decidi, por um momento (ou para sempre), passar mais tempo investigando as po
 ## 🖥 PLanejamento de Estudos
 | Packages |
 | ----| 
-| java.lang | java.net | java.time | java.util|
-| java.io | javax.swing | java.beans | java.sql|
+| java.lang |
+| java.net | 
+| java.time |
+| java.util|
+| java.io |
+| javax.swing | 
+| java.beans | 
+| java.sql|
 
 
 ## Sugestões
