@@ -15,16 +15,16 @@ Eu decidi, por um momento (ou para sempre), passar mais tempo investigando as po
 
 
 ## 🖥 PLanejamento de Estudos
-| Packages |
-| ----| 
-| java.lang |
-| java.net | 
-| java.time |
-| java.util|
-| java.io |
-| javax.swing | 
-| java.beans | 
-| java.sql|
+| Packages     | Java skills      |
+| -------------| -----------------|
+| java.lang    | Fundamentos      |
+| java.net     | Collections      |
+| java.time    |Build Tools       |
+| java.util    |  Web Frameworks  |
+| java.io      |     ORM          |
+| javax.swing  |     JDBC         |
+| java.beans   |Logging Frameworks|
+| java.sql     |Testing my Apps   |
 
 
 ## Sugestões
