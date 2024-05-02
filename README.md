@@ -10,6 +10,7 @@ Eu decidi, por um momento (ou para sempre), passar mais tempo investigando as po
 ## 📚 Documentação~
 - [Java API Specification](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 - [Java Development Kit](https://docs.oracle.com/en/java/javase/22/docs/api/index.html)
+- [Roadmap Java](https://roadmap.sh/java)
 
 
 
